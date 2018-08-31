@@ -1,0 +1,7 @@
+C:\Users\nicol\source\repos\aula-19-orientacao-a-objetos-permissoes-e-agrupam\aula-19-orientacao-a-objetos-permissoes-e-agrupam\obj\Debug\aula-19-orientacao-a-objetos-permissoes-e-agrupam.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\aula-19-orientacao-a-objetos-permissoes-e-agrupam\aula-19-orientacao-a-objetos-permissoes-e-agrupam\obj\Debug\aula-19-orientacao-a-objetos-permissoes-e-agrupam.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\aula-19-orientacao-a-objetos-permissoes-e-agrupam\aula-19-orientacao-a-objetos-permissoes-e-agrupam\bin\Debug\aula-19-orientacao-a-objetos-permissoes-e-agrupam.exe.config
+C:\Users\nicol\source\repos\aula-19-orientacao-a-objetos-permissoes-e-agrupam\aula-19-orientacao-a-objetos-permissoes-e-agrupam\bin\Debug\aula-19-orientacao-a-objetos-permissoes-e-agrupam.exe
+C:\Users\nicol\source\repos\aula-19-orientacao-a-objetos-permissoes-e-agrupam\aula-19-orientacao-a-objetos-permissoes-e-agrupam\bin\Debug\aula-19-orientacao-a-objetos-permissoes-e-agrupam.pdb
+C:\Users\nicol\source\repos\aula-19-orientacao-a-objetos-permissoes-e-agrupam\aula-19-orientacao-a-objetos-permissoes-e-agrupam\obj\Debug\aula-19-orientacao-a-objetos-permissoes-e-agrupam.exe
+C:\Users\nicol\source\repos\aula-19-orientacao-a-objetos-permissoes-e-agrupam\aula-19-orientacao-a-objetos-permissoes-e-agrupam\obj\Debug\aula-19-orientacao-a-objetos-permissoes-e-agrupam.pdb
